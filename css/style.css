@@ -1,0 +1,389 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    height: 1000px;
+}
+.aa {
+    color: white;
+    font-weight: bold;
+
+    
+}
+.abc1 {
+    width: 107%;
+    height: 650px;
+    z-index: -1;
+    position: relative;
+    bottom: 190px;
+    right: 50px;
+    border-top: 5px solid black;
+    filter:brightness(0.4 ) ;
+
+}
+
+.abc2 {
+    background-color:rgb(255,244,235);
+}
+.abc3 {
+    position: relative;
+    left: 69px;
+    top: 10px;
+    font-size: 20px;
+    color: rgb(234,168,52);
+}
+h3 {
+    font-weight: bold;
+    position: relative;
+    left: 50px;
+}
+.abc5 {
+
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 50px;
+    left: 10px;
+    z-index: 1;
+
+}
+.abc6 {
+    background-color: rgb(234,168,52);
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 0px;
+    left: 100px;
+    z-index: -1;
+}
+.abc7 {
+    
+    width: 200px;
+    height: 200px;
+    position: relative;
+    bottom: 75px;
+    left: 120px;
+    z-index: 1;
+
+}
+h1 {
+    position: relative;
+    top: 90px;
+    left: 75px;
+    font-weight: bold;
+}
+p {
+    position: relative;
+    top: 105px;
+    left: 90px;
+    font-weight: 550;
+}
+.abc9 {
+    background-color: rgb(234,168,52);
+    color: white;
+    padding: 15px;
+    border: 2px solid rgb(234,168,52);
+    border-radius: 50px;
+
+    top: 115px;
+    right: 100px;
+}
+.abc10 {
+    background-color: rgb(253,244,235);
+}
+.abc12 {
+    background-color: rgb(234,168,52);
+    width: 80%;
+    height: 100px;
+    position: relative;
+    left: 100px;
+}
+h5 {
+    font-size: 22px;
+    font-weight: 700;
+    color: white;
+    position: relative;
+    left: 50px;
+    top: 50px;
+}
+.abc13 {
+    position: relative;
+    left: 750px;
+    font-weight: bold;
+    font-size: 21px;
+    color: white;
+}
+.abc15 {
+   
+    font-weight: 800;
+    font-size: 19px;
+}
+.abc16 {
+  
+    font-size: 14px;
+}
+.abc17 {
+   background-color: rgb(255,244,235);
+}
+.abc18 {
+    background-color:rgb(234,168,52) ;
+    width: 1000px;
+    height: 100px;
+    position: relative;
+    left: 100px;
+}
+.abc19 {
+    font-size: 20px;
+    position: relative;
+    top: 20px;
+    color: white;
+}
+.abc20 {
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    position: relative;
+    top: 30px;
+}
+.abc21 {
+    font-size: 25px;
+    background-color: white;
+    font-weight: bold;
+    position: relative;
+    
+}
+.abc22 {
+    position: relative;
+    bottom: 200px;
+}
+.abc23 {
+    font-size: 20px;
+    margin-left: 20px;
+    background-color: rgb(234,168,52);
+    color: white;
+}
+.abc24 {
+    margin-left: 30px;
+    font-size: 20px;
+}
+.abc26 {
+    width: 130px;
+    height: 150px;
+    position: relative;
+    top: 20px;
+    z-index: 1;
+}
+.abc27 {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(234,168,52);
+    position: relative;
+    left: 50px;
+    bottom: 75px;
+    z-index: -1;
+   
+}
+.abc28 {
+    width: 120px;
+    height: 150px;
+    position: relative;
+    left: 20px;
+    top: 140px;
+   
+}
+.abc29 {
+    font-weight: bold;
+    position: relative;
+    left: 250px;
+}
+.abc30 {
+    background-color: rgb(255,244,235) ;
+    
+}
+.abc32 {
+    background-color: rgb(255,244,235) ;
+}
+.abc33 {
+    background-color: white ;
+    margin-left: 30px;
+
+}
+.abc34 {
+    background-color: rgb(234,168,52)  ;
+}
+
+.abc35 {
+    background-color: white  ;
+}
+.abc36 {
+    font-weight: bold;
+}
+.abc38 {
+    position: relative;
+    right: 200px;
+}
+.abc39 {
+
+}
+.abc40 {
+ font-size: 19px;
+ font-weight: bold;
+ margin-left: 10px;   
+}
+.abc41 {
+    
+    margin-left:50px ;
+    margin-top: 20px;
+}
+
+.abc42 {
+    background-color: rgb(234,168,52) ;
+    margin-left:50px ;
+    margin-top: 20px;
+    
+}
+.abc43 {
+    margin-left:50px ;
+    margin-top: 20px;
+}
+.abc47 {
+    position: relative;
+    left: 390px;
+    background-color: rgb(234,168,52) ;
+    font-size: 25px;
+    color: white;
+    cursor: pointer;
+}
+.abc48 {
+    background-color: rgb(234,168,52) ;
+    font-size: 25px;
+    color: white;
+    left: 320px;
+    cursor: pointer;
+
+}
+.abc49 {
+    background-color:  rgb(235, 234, 233);
+}
+    
+.abc50 {
+    background-color:  rgb(234,168,52);
+   width: 79%;
+   height: 120px;
+   margin-left: 120px; 
+   margin-top: 50px
+}
+.abc51 {
+    color: white;
+    position: relative;
+    left: 100px;
+    top: 30px;
+    font-weight: bold;
+}
+.abc52 {
+    position: relative;
+    left: 65%;
+    height: 30px;
+    border: 0px;
+    border-bottom: 2px solid black;
+    background-color: rgb(234,168,52);
+    
+}
+.abc53 {
+    position: relative;
+    left: 65%;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+.abc61 {
+    z-index: 1;
+    color: white;
+    position: relative;
+    top: 150px;
+    right: 50px;
+}
+.abc62 {
+    z-index: 1;
+    color: white;
+    position: relative;
+    top: 175px;
+    font-size: 17px;
+    right: 50px;
+}
+
+.abc63 {
+    z-index: 1;
+    color: white;
+    background-color: rgb(234,168,52);
+    position: relative;
+    bottom: 475px;
+    left: 100px;
+    border-radius: 29px;
+    border: 2px solid white;
+    font-weight: bold;
+    font-size: 15px;
+    width: 150px;
+    height: 40px;
+
+}
+.abc64 {
+ background-color: black;   
+}
+.abc65 {
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 15px;
+}
+.abc66 {
+    color: white;
+    margin-left: 10px;
+}
+.abc67 {
+    width: 60px;
+    height: 50px;
+    border: 3px solid white;
+}
+.abc68{
+    width: 60px;
+    height: 50px;
+    position: relative;
+    left: 64px;
+    bottom: 100px;
+    border: 3px solid white;
+}
+.abc69{
+    width: 60px;
+    height: 50px;
+    position: relative;
+    left: 63px;
+    bottom: 97px;
+    border: 3px solid white;
+}
+
+.abc70{
+    width: 60px;
+    height: 50px;
+    position: relative;
+    top: 3px;
+    border: 3px solid white;
+}
+.abc71{
+    width: 60px;
+    height: 50px;
+    position: relative;
+    left: 129px;
+    bottom: 200px;
+    border: 3px solid white;
+}
+.abc72{
+    width: 60px;
+    height: 50px;
+    position: relative;
+    left: 129px;
+    bottom: 197px;
+    border: 3px solid white;
+}
+.abc79 {}
